@@ -1,4 +1,6 @@
-# Python
+# Practice notes
+
+<!-- # Python
 # print("Hello" ,"World" )
 # print('Hello' ,'World' ,sep="-" )
 # print('Hello', end=" " )
@@ -66,9 +68,9 @@
 # # print(a[::-1])
 # print(a[-1:-34:-1])#take +1 in step so that it will take all the values present in your sentence 
                    #Type conversion 
-#1)implicit type conversion (Python automatically convert one data type to another )
-#2)Ecplicit type conversion (We have to explicitly convert one data type to another)
-                           #1)implicit type conversion 
+#(1)implicit type conversion (Python automatically convert one data type to another )
+#(2)Ecplicit type conversion (We have to explicitly convert one data type to another)
+                           #(1)implicit type conversion 
 
 # a=2
 # b=5.2
@@ -79,7 +81,7 @@
 # c=a1+b1
 # print(type(c))
 # print(c)
-                           #2)Ecplicit type conversion
+                           #(2)Ecplicit type conversion
 # a=1
 # b="5"
 # c=a+int(b)#b is a string so first change the string into integer 
@@ -101,15 +103,15 @@
 # print(type (a))
 # print(len(a))
                 #OPERATORS
-#1)ARITHMETIC OPERATORS 
-#2)Comparison/Relational Opearators
-#3)Logical Operators 
-#4)Assignment Operators 
-#5)Identity Operators 
-#6)Membership Operators 
-#7)Binary Operators 
+#(1)ARITHMETIC OPERATORS 
+#(2)Comparison/Relational Opearators
+#(3)Logical Operators 
+#(4)Assignment Operators 
+#(5)Identity Operators 
+#(6)Membership Operators 
+#(7)Binary Operators 
                         
-                    #1)ARITHMETIC OPERATORS(+,-,*,/,%,**,//) 
+                    #(1)ARITHMETIC OPERATORS(+,-,*,/,%,**,//) 
 # (% Modulo sign return remainder )
 # print(7%2)#Remainder 1
 # # (** Exponential sign return powers )
@@ -117,7 +119,7 @@
 # # (// Floor division return integer part only in division )
 # print(8/3)#floor data type 
 # print(8//3)#floor division 
-                      #2)Comparison/Relational Opearators with strings
+                      # (2)Comparison/Relational Opearators with strings
 # a=2
 # b=5
 # print(a==b)
@@ -817,8 +819,8 @@ b = "world"
 # print("apna college ",end=" ")
 # print("sara")
 #two types functions 
-#1)Built in function ex.(print(),len(),type(),range())
-#2)User defined functions (those functions which are written by us)
+#(1)Built in function ex.(print(),len(),type(),range())
+#(2)User defined functions (those functions which are written by us)
 
 
 #Default parameters
@@ -930,8 +932,8 @@ b = "world"
 
 
 #Tyepes of files 
-#1) Text files : .txt, .docx, .log etc.
-#2) Binary Files : .mp4, .mov, .png, .jpeg etc.
+#(1) Text files : .txt, .docx, .log etc.
+#(2) Binary Files : .mp4, .mov, .png, .jpeg etc.
 
 
 
@@ -1062,4 +1064,4 @@ b = "world"
 
 
 
-
+ -->
