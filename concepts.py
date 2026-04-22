@@ -6,4 +6,6 @@ name = {"Hello" , "World"}
 print(name)
 print(type(name))
 print("hello","world")
+a=(3/4)**6
+print(a)
 
